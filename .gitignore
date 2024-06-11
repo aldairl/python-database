@@ -138,3 +138,4 @@ cache
 exports
 
 errorConnection.txt
+*.sqlite3
